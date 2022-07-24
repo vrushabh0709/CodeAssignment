@@ -10,4 +10,4 @@ Result-1: The country's test case was successfully matched. If the date test cas
 I took a screenshot.It is in the screen shot folder.
 An extent report is also prepared. It is in the Test-Output folder, i.e., Extent.html (you have to open it in a browser).
 Log4j is used to save logs in a folder.
-Note: I did not integrate test cases with Jenkins because I have less knowledge of Jenkins.
+Note: I did not integrate test cases with Jenkins because I have less knowledge about Jenkins.
